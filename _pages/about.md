@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I am a senior undergraduate of the Tsien Engineering Excellence Program (钱学森力学班) at Tsinghua University, majoring in Theoretical Mechanics. Currently, I am advised by [Prof. Lu Lu](https://lugroup.yale.edu/) at Yale Statistics and Data Science Department. I was priviledged to be advised by [Prof. Moran Wang](http://www.wanglab-tsinghua.com) and [Prof. Cunjing Lv](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1223.htm) at Tsinghua University, and [Prof. Juner Zhu](https://www.zhujuner.com/) at Northeastern University, Boston.
+
+My research interests lie in the area of scientific machine learning (SciML) and artificial intelligence for science(AI4Science), especially its applications to the mechanical problems. I am greatly enthusiastic about the potential of AI in scientific discovery.
+
+I am particularly interested 
+
 
 A data-driven personal website
 ======
