@@ -11,7 +11,7 @@ Hi! I am a senior undergraduate of the Tsien Engineering Excellence Program (钱
 
 My research interests lie in the area of scientific machine learning (SciML) and artificial intelligence for science(AI4Science), especially its applications to the mechanical problems. I am greatly enthusiastic about the potential of AI in scientific discovery.
 
-I am particularly interested 
+<!-- I am particularly interested  -->
 
 
 A data-driven personal website
