@@ -9,8 +9,11 @@ redirect_from:
 
 Hi! I am a senior undergraduate of the Tsien Engineering Excellence Program (钱学森力学班) at Tsinghua University, majoring in Theoretical Mechanics. Currently, I am advised by [Prof. Lu Lu](https://lugroup.yale.edu/) at Yale Statistics and Data Science Department. I was priviledged to be advised by [Prof. Moran Wang](http://www.wanglab-tsinghua.com) and [Prof. Cunjing Lv](https://www.hy.tsinghua.edu.cn/hyen/info/1162/1223.htm) at Tsinghua University, and [Prof. Juner Zhu](https://www.zhujuner.com/) at Northeastern University, Boston.
 
-My research interests lie in the area of scientific machine learning (SciML) and artificial intelligence for science(AI4Science), especially its applications to the mechanical problems. I am greatly enthusiastic about the potential of AI in scientific discovery.
+My research interests lie in the area of scientific machine learning (SciML) and artificial intelligence for science(AI4Science), especially its applications to the mechanics problems. I am also greatly enthusiastic about the potential of AI in scientific discovery. I hope to combine human and machine insights to promote both the computations and the understandings of complex mechanics problems.
 
+Contact: luojl21@mails.tsinghua.edu.cn
+
+[Download CV]()
 <!-- I am particularly interested  -->
 
 
