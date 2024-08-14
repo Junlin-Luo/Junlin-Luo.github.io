@@ -27,7 +27,7 @@ Publication
 
 *Extreme Mechanics Letters*· May 15, 2024
 
-Royal Chibuzor Ihuaenyi$^1$,**Junlin Luo$^1$**(Equal Contributtor), Wei Li, Juner Zhu*
+Royal Chibuzor Ihuaenyi<sup>1</sup>,**Junlin Luo<sup>1</sup>**(Equal Contributtor), Wei Li, Juner Zhu*
 <!-- Royal Chibuzor Ihuaenyi^1, Junlin Luo1(Equal Contributor), Wei Li, Juner Zhu* -->
 ![Editing a markdown file for a talk](/images/EML.png)
 
@@ -49,7 +49,7 @@ Honors and Awards
 Extracurriculum
 ======
 
-I am a keen volleyball fan, often playing as a setter. I serve as a team manager in Xingjian College Volleyball Team, leading the team to advance in the group stage.
+I am a keen volleyball fan, often playing as a setter. I serve as a team manager in Xingjian College Volleyball Team, leading the team to advance in the group stage. I also love running and watching Netflix in free time.
 
 <!-- Create content & metadata
 ------
