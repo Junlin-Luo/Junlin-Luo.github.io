@@ -11,54 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Undergraduate at Tsinghua University, Beijing, 2021-2025(Expected)
+  * Tsien Excellence in Engineering Program(钱学森力学班)
+  * Theoretical and Applied Mechanics
+  * GPA: 3.95/4.00
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024(Ongoing): **Symbolic regressions for PDE directly driven by data(solution).**
+  * Advisor: Prof. Lu Lu, Yale University, New Haven
+  * Build an end-to-end model to directly regress the analytical form of the PDE from the solution
+  * Aiming to construct a foundation model faster than heuristic PDE discovery using genetic algorithms.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023 - Summer 2024: **Investigating abiotic particles accumulation behind cylinders in microfluidic chips.**(A Talk delivered)
+  * Advisor: Prof. Moran Wang, Tsinghua University, Beijing
+  *  Discover the pattern of the ’streamer-like’ growing of abiotic particles behind the cylinder in microfluidic chips.
+  * Attempt to propose dynamical equations to physically describe the growing patterns
+  *  Investigate the reasons why abiotic particles accumulate behind the cylinder without the existence of the biofilm, which is considered as the reason why its counterpart, biotic streamer, forms.
+
+* Summer 2023: **Seeking the most informative specimen shape for learning constitutive models.**(One Paper Published in *Extreme Mechanics Letter*)
+  * Advisor: Prof. Juner Zhu, Northeastern University, Boston
+  * Propose the idea —— ”Utilitizing entropy criterion to help quantify the information contained”. in experiments
+with different sample shapes.
+  *  Demonstrate that different testing shapes in nano-indentation lead to different ’information entropy value of the stress state’, which could indicate the diversity of the stress state.
+
+* Fall 2022 - Spring 2023: **Ouzo effect in confined space.**
+  * Advisor: Prof. Cunjing Lv, Tsinghua University, Beijing
+  *  Conduct the experiments and propose a new attribute to quantitatively describe the phase transition of ternary
+liquid evaporation in confined space.
+  * Explain how the interface shape’s destruction interferes with the symmetry of the fluid field pattern.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding Languages: Python(Proficient), Matlab, C/C++
+* Professional Software: OpenFoam(Adept), Basic AUTOCAD(Adept), Solidworks, Abaqus, Multisim.
+
+* English Proficiency: TOEFL 106, Speaking 23
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Seeking the most informative design of test specimens for learning constitutive models](https://www.sciencedirect.com/science/article/pii/S235243162400049X)
+
+*Extreme Mechanics Letters*· May 15, 2024
+
+Royal Chibuzor Ihuaenyi<sup>1</sup>,**Junlin Luo<sup>1</sup>**(Equal Contributtor), Wei Li, Juner Zhu*
+<!-- Royal Chibuzor Ihuaenyi^1, Junlin Luo1(Equal Contributor), Wei Li, Juner Zhu* -->
+![Editing a markdown file for a talk](/images/EML.png)
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+X.K. Lu, H. Xiao, W. Gong, **J. Luo**, M. Wang. Self-organized colloidal streamers in porous media. 16th Annual International Conference on Porous Media, May 12-16, 2024, Qingdao, China. (Oral presentation)
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
