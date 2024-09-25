@@ -12,10 +12,9 @@ Hi! I am a senior undergraduate of the Tsien Engineering Excellence Program (钱
 My research interests lie in the area of **fondamental mechanism discoveries driven by data**, especially in solid mechanics and fluid mechanics.  I am also greatly enthusiastic about the potential of AI in scientific discovery. I hope to combine human and machine insights to promote both the computations and the understandings of complex mechanics problems.
 
 I am particularly interested in
-- Data-driven discovery for mechanics partial differential equations.
+- Data-driven discovery for physics, especially in mechanics.
+- Neural operator simulation of fluid mechanics and solid mechanics.
 - Multi-physics and multiscale modeling and prediction.
-- AI-assisted physical simulation of fluid mechanics and solid mechanics.
-
 Contact: luojl21@mails.tsinghua.edu.cn
 
 [Download CV](https://Junlin-Luo.github.io/files/JunlinLuo_CV.pdf)
