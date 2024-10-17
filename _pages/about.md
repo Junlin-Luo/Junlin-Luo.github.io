@@ -17,7 +17,7 @@ I am particularly interested in
 - Multi-physics and multiscale modeling and prediction.
 Contact: luojl21@mails.tsinghua.edu.cn
 
-[Download CV](https://Junlin-Luo.github.io/files/JunlinLuo_CV.pdf)
+[Download CV](https://Junlin-Luo.github.io/files/CV_Junlin_website.pdf)
 <!-- I am particularly interested  -->
 
 Publication 
